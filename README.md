@@ -2,15 +2,15 @@
 
 <h1 align="center">Pulse</h1>
 
-<p align="center"><b>A fitness and nutrition tracker that lives on a small computer in my home,<br>with three advisors I can message any time.</b></p>
+<p align="center"><b>Three AI advisors for nutrition and training,<br>in one Telegram chat, working from my real numbers.</b></p>
 
 > **This is a showcase.** The source code is private, because Pulse is built around one person's life. Here is what it does and how it fits together.
 
-Weight, food, water, workouts: it all goes in one place, and none of it leaves the house. Then, in the same Telegram chat where I message friends, a nutritionist, a fitness coach and a chef answer questions about that data.
+A nutritionist, a fitness coach and a chef. I message them like I would message a person, and they answer from what Pulse knows about me: my weight, my food, my water, my workouts. Pulse is also the app that holds all of that in one place.
 
 ## Three advisors, one chat
 
-I write to them the way I would write to a person, at any hour. The right one answers. The chef stays quiet unless I ask for a recipe or food ideas.
+The right one answers. The chef stays quiet unless I ask for a recipe or food ideas. I can write to them at any hour, about anything from "what should I eat after training" to "is my squat actually progressing".
 
 ## Send them whatever is in front of you
 
@@ -43,9 +43,9 @@ Screens from the design study for the workouts side of the app. Every number on 
 
 <p align="center"><img src="screens-after-workout.png" alt="The summary after a workout, and sharing progress" width="70%"></p>
 
-## Private on purpose
+## My data stays mine
 
-Pulse runs on a small computer at home. My weight, my food and my workouts stay there. If a piece is missing, Pulse stays quiet instead of guessing.
+It lives in a database I own, not scattered across other companies' apps. The scale talks to Pulse directly, without going through the scale maker's cloud. And if a piece is missing, Pulse stays quiet instead of guessing.
 
 ## How I built it
 
