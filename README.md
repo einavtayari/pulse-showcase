@@ -2,38 +2,38 @@
 
 <h1 align="center">Pulse</h1>
 
-<p align="center"><b>A fitness and nutrition companion that is yours alone.</b><br>Your body, your food, your training, and three AI advisors who actually know you.</p>
+<p align="center"><b>A fitness and nutrition tracker that lives on a small computer in my home,<br>with three advisors I can message any time.</b></p>
 
-> **A showcase.** The source code is private, because Pulse is built around one person's life. This page tells the story.
+> **This is a showcase.** The source code is private, because Pulse is built around one person's life. Here is what it does and how it fits together.
 
-## Meet your team
+Weight, food, water, workouts: it all goes in one place, and none of it leaves the house. Then, in the same Telegram chat where I message friends, a nutritionist, a fitness coach and a chef answer questions about that data.
 
-What if a nutritionist, a fitness coach and a chef lived in your chat?
+## Three advisors, one chat
 
-That is Pulse. Three advisors share one Telegram conversation, so you can talk to them at any moment, from anywhere, the way you would message a friend. The right one answers. The chef steps in only when you ask for a recipe or food ideas.
+I write to them the way I would write to a person, at any hour. The right one answers. The chef stays quiet unless I ask for a recipe or food ideas.
 
-## Send them anything
+## Send them whatever is in front of you
 
-Snap a nutrition label. Photograph your plate. Drop in a PDF, a spreadsheet or a Google Sheet link. They read it, answer you, and quietly save what matters. No retyping, no copying numbers by hand.
+A photo of a nutrition label, a picture of my plate, a PDF, a spreadsheet, a Google Sheet link. The advisor reads it, answers, and saves what is worth keeping. I never retype numbers.
 
-## They remember you, and they get better at it
+## They already know me
 
-Everything you share goes into a memory that all the advisors read before they answer. The longer you use Pulse, the more specific the advice becomes, and you never have to repeat yourself to each of them.
+Everything I share goes into a memory that all three advisors read before they answer, so I do not explain myself twice. The more I use Pulse, the more specific their advice gets.
 
-The advisors and the app also work as one. Photograph a label inside the app and an advisor reads it and writes the result back. Ask a question in the chat and the advisor first looks at your real, current data.
+The app and the advisors also work on the same record. Photograph a label inside the app and an advisor reads it and writes the result back. Ask something in the chat and the advisor first looks at my current numbers, so the answer is based on what is really there.
 
-## One honest place for all of it
+## The app
 
 | | |
 | --- | --- |
-| **Body** | Weight, composition and measurements, with trends from a week to six months |
-| **Nutrition** | A food journal with your own food bank, barcode scanning, and calories and macros in clear colour |
-| **Water** | A daily goal, one tap to add a glass |
+| **Body** | Weight, composition and measurements, with trends from one week to six months |
+| **Nutrition** | A food journal with my own food bank, barcode scanning, and calories and macros in clear colour |
+| **Water** | A daily goal, one tap per glass |
 | **Workouts** | Every exercise, set by set |
-| **Progress** | Your training block, your records, and how each lift is moving |
-| **Backup** | Your data in, your data out, and always a safe copy |
+| **Progress** | The training block, my records, and how each lift is moving |
+| **Backup** | Data in, data out, and a safe copy |
 
-And the rule behind all of it: **Pulse never shows a made-up number.** No data yet? It says so.
+One rule runs through all of it: **Pulse never shows a made-up number.** If there is no data yet, it says so. The same rule is written into every advisor's instructions, along with a ban on inventing files or buttons.
 
 ## A look
 
@@ -43,16 +43,16 @@ Screens from the design study for the workouts side of the app. Every number on 
 
 <p align="center"><img src="screens-after-workout.png" alt="The summary after a workout, and sharing progress" width="70%"></p>
 
-## Private by design
+## Private on purpose
 
-Pulse runs on a small computer at home. Nothing about your body, your food or your workouts ever leaves the house. If anything is missing, it stays quiet instead of guessing.
+Pulse runs on a small computer at home. My weight, my food and my workouts stay there. If a piece is missing, Pulse stays quiet instead of guessing.
 
-## How it is made
+## How I built it
 
-Pulse is built by a human in the loop and a team of AI agents: planners, builders, testers, a security reviewer and a keeper of the written record. Nothing ships until it passes the gates, and every release leaves a restore point behind.
+With a team of AI agents: one plans, others build, one tests, one reviews security, one keeps the written record honest. I am the human in the loop who decides. Nothing goes live until it passes the checks, and every release leaves a restore point behind.
 
-## Want to see it live?
+## Want to see it work?
 
-The code is private, but I am glad to walk you through how Pulse works, in a demo or a conversation.
+The code stays private, but I am happy to show you Pulse live and explain how the pieces fit.
 
 <p align="center">Built by <a href="https://github.com/einavtayari">Einav</a>, the human in the loop.</p>
